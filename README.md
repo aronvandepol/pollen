@@ -54,15 +54,18 @@ You have a couple of options:
 Example output:
 
 The output will display the current pollen levels:
+```bash
 🌿 Pollen Levels - Leiden
 ─────────────────────────────────
 📍 Leiden, Netherlands
 🕐 2025-05-30 19:47:26
-🌳 Tree Pollen LOW
-🌾 Ragweed Pollen LOW
-🍄 Mold HIGH
-🌱 Grass Pollen LOW
-💨 Dust & Dander HIGH
+
+🌳 Tree Pollen      LOW
+🌾 Ragweed Pollen   LOW
+🍄 Mold             HIGH
+🌱 Grass Pollen     LOW
+💨 Dust & Dander    HIGH
+```
 
 ## Future Improvements
 
